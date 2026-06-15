@@ -21,10 +21,14 @@
             "id": "9b953c3b40382bee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "你好.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "你好"
             }
           }
         ],
@@ -119,6 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "你好.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,6 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "你好.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,6 +156,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "你好.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -173,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b449db56147e662",
+  "active": "9b953c3b40382bee",
   "lastOpenFiles": [
+    "你好.md",
     "近代史.md"
   ]
 }
