@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781573602205-l88titwm8",
+  "providerId": "claude",
+  "title": "Organize data structure C files into review notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781573602211,
+  "updatedAt": 1781573919899,
+  "lastResponseAt": 1781573919899,
+  "sessionId": "fb94ab8c-8e5a-495a-b53b-5f475eb8f4fd",
+  "providerState": {
+    "providerSessionId": "fb94ab8c-8e5a-495a-b53b-5f475eb8f4fd"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 923,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 109056,
+    "contextWindow": 200000,
+    "contextTokens": 109979,
+    "percentage": 55,
+    "contextWindowIsAuthoritative": true
+  }
+}
