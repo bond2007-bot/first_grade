@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md",
+                "file": "近代史复习鸡腿-Word版(1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-图的最小生成树（Prim与Kruskal）"
+              "title": "近代史复习鸡腿-Word版(1)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学做题.md",
+                "file": "近代史复习鸡腿-Word版(1).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "离散数学做题 的大纲"
+              "title": "近代史复习鸡腿-Word版(1) 的大纲"
             }
           },
           {
@@ -209,14 +210,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0526f25dd2880ad9",
+  "active": "901e47499c0abc3b",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "近代史复习鸡腿-Word版(1).md",
+    "离散数学做题.md",
     "C语言数据结构/12-查找算法（顺序查找、折半查找、二叉排序树）.md",
     "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md",
     "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md.tmp.27636.246299f1283e",
     "C语言数据结构/07-图的最短路径（Dijkstra与Floyd）.md",
     "C语言数据结构/02-链表（单链表、双向链表与循环链表应用）.md",
-    "离散数学做题.md",
     "未命名",
     "C语言数据结构/04-树、B树与哈希表.md",
     "近代史.md",
