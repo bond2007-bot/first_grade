@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md",
+                "file": "离散数学做题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-图的最小生成树（Prim与Kruskal）"
+              "title": "离散数学做题"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md",
+                "file": "离散数学做题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06-图的最小生成树（Prim与Kruskal） 的大纲"
+              "title": "离散数学做题 的大纲"
             }
           },
           {
@@ -212,9 +212,11 @@
   },
   "active": "901e47499c0abc3b",
   "lastOpenFiles": [
+    "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md",
+    "离散数学做题.md",
+    "未命名",
     "C语言数据结构/04-树、B树与哈希表.md",
     "近代史.md",
-    "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md",
     "C语言数据结构/05-图的遍历（BFS与DFS）.md",
     "C语言数据结构/03-栈与队列.md",
     "C语言数据结构/02-链表（单链表、双向链表与循环链表应用）.md",
