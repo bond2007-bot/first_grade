@@ -190,11 +190,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +209,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f1f130e0e60d0a6f",
+  "active": "0526f25dd2880ad9",
   "lastOpenFiles": [
     "C语言数据结构/12-查找算法（顺序查找、折半查找、二叉排序树）.md",
     "C语言数据结构/06-图的最小生成树（Prim与Kruskal）.md",
