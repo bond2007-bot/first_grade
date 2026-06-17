@@ -4,20 +4,20 @@
   "title": "Organize data structure C files into review notes",
   "titleGenerationStatus": "success",
   "createdAt": 1781573602211,
-  "updatedAt": 1781681323142,
-  "lastResponseAt": 1781681323142,
+  "updatedAt": 1781681400412,
+  "lastResponseAt": 1781681400412,
   "sessionId": "fb94ab8c-8e5a-495a-b53b-5f475eb8f4fd",
   "providerState": {
     "providerSessionId": "fb94ab8c-8e5a-495a-b53b-5f475eb8f4fd"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 130,
+    "inputTokens": 4146,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 127616,
+    "cacheReadInputTokens": 128768,
     "contextWindow": 200000,
-    "contextTokens": 127746,
-    "percentage": 64,
+    "contextTokens": 132914,
+    "percentage": 66,
     "contextWindowIsAuthoritative": true
   }
 }
