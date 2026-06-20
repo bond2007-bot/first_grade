@@ -176,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +196,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ed96faec52a440c6",
+  "active": "f1f130e0e60d0a6f",
   "lastOpenFiles": [
     "离散数学做题.md.tmp.13564.fb9c68e58a62",
     "近代史复习鸡腿-Word版(1).md",
