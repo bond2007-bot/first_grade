@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781947745211-ymle9kha5",
+  "providerId": "claude",
+  "title": "整理11到12内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781947745219,
+  "updatedAt": 1781948476958,
+  "lastResponseAt": 1781948476958,
+  "sessionId": "3b0e4efb-1aad-4007-9778-8f7b4d5686cc",
+  "providerState": {
+    "providerSessionId": "3b0e4efb-1aad-4007-9778-8f7b4d5686cc"
+  },
+  "currentNote": "离散数学做题.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 105,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43648,
+    "contextWindow": 200000,
+    "contextTokens": 43753,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}
