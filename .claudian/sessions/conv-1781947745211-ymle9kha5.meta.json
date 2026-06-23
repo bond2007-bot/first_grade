@@ -4,21 +4,20 @@
   "title": "整理11到12内容",
   "titleGenerationStatus": "success",
   "createdAt": 1781947745219,
-  "updatedAt": 1781948476958,
-  "lastResponseAt": 1781948476958,
+  "updatedAt": 1782183243117,
+  "lastResponseAt": 1782183243117,
   "sessionId": "3b0e4efb-1aad-4007-9778-8f7b4d5686cc",
   "providerState": {
     "providerSessionId": "3b0e4efb-1aad-4007-9778-8f7b4d5686cc"
   },
-  "currentNote": "离散数学做题.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 105,
+    "inputTokens": 335,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 43648,
+    "cacheReadInputTokens": 45824,
     "contextWindow": 200000,
-    "contextTokens": 43753,
-    "percentage": 22,
+    "contextTokens": 46159,
+    "percentage": 23,
     "contextWindowIsAuthoritative": true
   }
 }
