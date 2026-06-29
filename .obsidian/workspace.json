@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言数据结构/01-顺序表与C语言基础.md",
+                "file": "C语言数据结构/02-链表（单链表、双向链表与循环链表应用）.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-顺序表与C语言基础"
+              "title": "02-链表（单链表、双向链表与循环链表应用）"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2f6b48fef31f5259",
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +199,8 @@
   },
   "active": "8c35ee35901fc2d8",
   "lastOpenFiles": [
-    "C语言数据结构/02-链表（单链表、双向链表与循环链表应用）.md",
     "C语言数据结构/01-顺序表与C语言基础.md",
+    "C语言数据结构/02-链表（单链表、双向链表与循环链表应用）.md",
     "离散数学做题.md",
     "离散数学做题.md.tmp.13564.fb9c68e58a62",
     "近代史复习鸡腿-Word版(1).md",
